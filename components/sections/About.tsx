@@ -57,7 +57,7 @@ const About = () => {
           <div ref={textRef} className="fade-in">
             <h2 className="section-title">A Heritage of Moroccan Craftsmanship</h2>
             <p className="section-subtitle">
-              Our leather bookbinding tradition has been passed down through generations, preserving the authentic techniques of the Fez tanneries.
+              Soufiane's bookbinding tradition has been passed down through generations, preserving the authentic techniques of the Fez tanneries.
             </p>
             
             <div className="space-y-6">
